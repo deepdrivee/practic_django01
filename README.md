@@ -1,1 +1,1 @@
-# practic_django01
+# practic_django01# django
